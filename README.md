@@ -1,4 +1,3 @@
-# MCS-B09B
 # Marine cold-spells after iceberg B09B grounding (Adélie Sill–Commonwealth Bay)
 
 This repository contains a single R script that reproduces the main analysis workflow: preprocessing satellite SST, detecting marine cold-spells using a standardized event framework, aggregating diagnostics, and generating the core time series and figures used in the manuscript.
