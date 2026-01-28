@@ -12,7 +12,7 @@ At a high level, the script:
 1. Loads daily OSTIA foundation SST (and associated sea-ice fields where needed) for 1982–2024 over the Adélie Sill–Commonwealth Bay domain.
 2. Detects marine cold-spell events following the event-based framework of Schlegel et al. (2021) (via `heatwaveR`).
 3. Computes annual and seasonal summary metrics (with a focus on cumulative intensity).
-4. Applies the MCS$_{\text{ice}}$ flag to identify near-ice cold-spell days.
+4. Applies the MCS "ice" flag to identify near-ice cold-spell days.
 
 ## Data availability
 
